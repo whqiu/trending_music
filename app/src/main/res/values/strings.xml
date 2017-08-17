@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrendingMusic</string>
+
+    <string name="label_no_songs">Please refresh to fetch songs</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="snack_bar_msg_internet_disconnected">Internet disconnected.</string>
+    <string name="snack_bar_msg_internet_connected">Internet connected.</string>
+</resources>
